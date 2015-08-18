@@ -26,3 +26,5 @@ require '../develope/ThinkPHP/ThinkPHP.php';
 6.安装zend studio进行php开发，打开develop文件夹即可进行开发
 
 7.具体thinkPHP框架使用方法请查阅http://www.thinkphp.cn/ 下开发手册
+
+注：window下提交的时候github可能会出现warning: LF will be replaced by CRLF的提示，我这边是执行 git config --global core.autocrlf false  //禁用自动转换    
